@@ -1,5 +1,6 @@
-# Computer-Vision
-## Detection  
+# Computer-Vision 
 ## Classification  
+## Detection 
+## GAN  
 ## instance segmentation  
-## GAN
+## ReID
