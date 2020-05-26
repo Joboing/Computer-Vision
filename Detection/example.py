@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from kmeans import kmeans, avg_iou
 
 # ANNOTATIONS_PATH = "./data/pascalvoc07-annotations"
-ANNOTATIONS_PATH = "D:\\data\\模型数据集增加的数据\\dumpling_seg_tricls_2905\\"
+ANNOTATIONS_PATH = "annotaions_path"
 CLUSTERS = 100
 BBOX_NORMALIZE = True
 
