@@ -1,4 +1,5 @@
 # Computer-Vision
 ## Detection  
 ## Classification  
-## instance segmentation
+## instance segmentation  
+## GAN
